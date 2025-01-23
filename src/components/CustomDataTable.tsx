@@ -30,29 +30,44 @@ const CustomDataTable = <T extends object>({
   ...rest
 }: CustomDataTableProps<T>) => {
   return (
-    <DataTable<T[]>
-      value={data}
-      paginator
-      rows={10}
-      first={0}
-      //   onPage={(e) => onPageChange(e)}
-      rowsPerPageOptions={[10, 20, 50]}
-      responsiveLayout="scroll"
-      selection={selection}
-      selectionMode={selectionMode}
-      onContextMenuSelectionChange={onContextMenuSelectionChange}
-      onSelectionChange={onSelectionChange}
-      {...rest}
+    <div
+      style={{
+        height: "calc(100vh - 200px)",
+        padding: "1rem",
+        boxSizing: "border-box",
+      }}
     >
-      {columns.map((col, index) => (
-        <Column
-          key={index}
-          field={String(col.field)}
-          header={col.header}
-          sortable={col.sortable || false}
-        />
-      ))}
-    </DataTable>
+      <DataTable<T[]>
+        value={data}
+        paginator
+        rows={50}
+        first={0}
+        rowsPerPageOptions={[10, 20, 50]}
+        scrollable
+        scrollHeight="calc(100vh - 200px)"
+        tableStyle={{ minWidth: "50rem" }}
+        style={{
+          width: "100%",
+          maxHeight: "100%",
+          border: "1px solid #ddd",
+          borderRadius: "5px",
+        }}
+        selection={selection}
+        selectionMode={selectionMode}
+        onContextMenuSelectionChange={onContextMenuSelectionChange}
+        onSelectionChange={onSelectionChange}
+        {...rest}
+      >
+        {columns.map((col, index) => (
+          <Column
+            key={index}
+            field={String(col.field)}
+            header={col.header}
+            sortable={col.sortable || false}
+          />
+        ))}
+      </DataTable>
+    </div>
   );
 };
 
