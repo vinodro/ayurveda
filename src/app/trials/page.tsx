@@ -1,28 +1,40 @@
-import CustomDataTable from "@/components/CustomDataTable";
+"use client";
 
+import CustomDataTable from "@/components/CustomDataTable";
+import illness from "@/static/illness.json";
 interface TrialItem {
-  id: number;
-  product: string;
-  price: number;
+  patientId: number;
+  patientName: string;
+  currentScore: number;
+  targetScore: number;
+  report: string;
+  health_issue: string;
 }
 
 const Trials = () => {
-  const data: TrialItem[] = [
-    { id: 1, product: "Laptop", price: 1200 },
-    { id: 2, product: "Phone", price: 800 },
-    { id: 3, product: "Tablet", price: 600 },
-  ];
+  const data: TrialItem[] = illness;
 
   const columns: { field: keyof TrialItem; header: string }[] = [
-    { field: "id", header: "ID" },
-    { field: "product", header: "Product" },
-    { field: "price", header: "Price" },
+    { field: "patientId", header: "Patient Id" },
+    { field: "patientName", header: "Patient Name" },
+    { field: "currentScore", header: "Current Score" },
+    { field: "targetScore", header: "Target Score" },
+    { field: "report", header: "Report" },
   ];
+
+  const rowGroupHeaderTemplate = (data: any) => {
+    return <h1 className="text-xl font-medium">{data.health_issue}</h1>;
+  };
 
   return (
     <div className="p-4">
-      <h2>Data Grid Two</h2>
-      <CustomDataTable data={data} columns={columns} />
+      <h1 className="text-2xl font-medium">Trials</h1>
+      <CustomDataTable
+        data={data}
+        columns={columns}
+        rowGroupMode="subheader"
+        rowGroupHeaderTemplate={rowGroupHeaderTemplate}
+      />
     </div>
   );
 };

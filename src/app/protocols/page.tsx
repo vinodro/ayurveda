@@ -22,7 +22,7 @@ const Protocols = () => {
 
   return (
     <div className="p-4">
-      <h2>Data Grid One</h2>
+      <h1 className="text-xl font-medium">Protocols</h1>
       {/* <DataTable value={data} responsiveLayout="scroll" stripedRows>
         <Column field="id" header="ID"></Column>
         <Column field="name" header="Name"></Column>

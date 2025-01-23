@@ -15,6 +15,11 @@ interface CustomDataTableProps<T extends object>
   selection?: T[];
   onPageChange?: (e: { first: number; rows: number }) => void;
   selectionMode?: "multiple" | "checkbox" | null;
+  rowGroupMode?: "subheader" | "rowspan";
+  groupRowsBy?: string;
+  sortMode?: "single" | "multiple";
+  sortField?: string;
+  rowGroupHeaderTemplate?: (data: any) => React.ReactNode;
   onContextMenuSelectionChange?: (e: { value: T[] }) => void;
   onSelectionChange?: (e: { value: T[] }) => void;
 }
@@ -25,6 +30,11 @@ const CustomDataTable = <T extends object>({
   selection = [],
   onPageChange = () => {},
   selectionMode = null,
+  rowGroupMode,
+  groupRowsBy = "health_issue",
+  sortMode = "single",
+  sortField = "health_issue",
+  rowGroupHeaderTemplate = (data: any) => null,
   onContextMenuSelectionChange,
   onSelectionChange,
   ...rest
@@ -42,8 +52,12 @@ const CustomDataTable = <T extends object>({
         paginator
         rows={50}
         first={0}
+        rowGroupMode={rowGroupMode}
         rowsPerPageOptions={[10, 20, 50]}
         scrollable
+        groupRowsBy={groupRowsBy}
+        sortMode={sortMode || "single"}
+        sortField={sortField}
         scrollHeight="calc(100vh - 200px)"
         tableStyle={{ minWidth: "50rem" }}
         style={{
@@ -54,6 +68,7 @@ const CustomDataTable = <T extends object>({
         }}
         selection={selection}
         selectionMode={selectionMode}
+        rowGroupHeaderTemplate={rowGroupHeaderTemplate}
         onContextMenuSelectionChange={onContextMenuSelectionChange}
         onSelectionChange={onSelectionChange}
         {...rest}

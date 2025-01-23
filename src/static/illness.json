@@ -1,0 +1,403 @@
+[
+    {
+      "health_issue": "Dialysis",
+      "patientId": 1,
+      "patientName": "John Doe",
+      "currentScore": 78,
+      "targetScore": 85,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Albumin Urea",
+      "patientId": 2,
+      "patientName": "Jane Smith",
+      "currentScore": 65,
+      "targetScore": 80,
+      "report": "Needs Improvement"
+    },
+    {
+      "health_issue": "Gout",
+      "patientId": 3,
+      "patientName": "Alice Brown",
+      "currentScore": 90,
+      "targetScore": 92,
+      "report": "Excellent"
+    },
+    {
+      "health_issue": "Obesity / Weight loss",
+      "patientId": 4,
+      "patientName": "Bob Johnson",
+      "currentScore": 55,
+      "targetScore": 75,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Diabetes",
+      "patientId": 5,
+      "patientName": "Charlie Davis",
+      "currentScore": 82,
+      "targetScore": 88,
+      "report": "Good Progress"
+    },
+    {
+      "health_issue": "Hypertension",
+      "patientId": 6,
+      "patientName": "Diana Evans",
+      "currentScore": 67,
+      "targetScore": 78,
+      "report": "Moderate"
+    },
+    {
+      "health_issue": "Asthma",
+      "patientId": 7,
+      "patientName": "Evan Wilson",
+      "currentScore": 45,
+      "targetScore": 70,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Cancer",
+      "patientId": 8,
+      "patientName": "Fiona Green",
+      "currentScore": 88,
+      "targetScore": 90,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Heart disease",
+      "patientId": 9,
+      "patientName": "George Harris",
+      "currentScore": 92,
+      "targetScore": 95,
+      "report": "Excellent"
+    },
+    {
+      "health_issue": "Kidney disease",
+      "patientId": 10,
+      "patientName": "Hannah Martin",
+      "currentScore": 74,
+      "targetScore": 80,
+      "report": "Moderate"
+    },
+    {
+        "health_issue": "Liver disease",
+      "patientId": 11,
+      "patientName": "Ian Wright",
+      "currentScore": 60,
+      "targetScore": 77,
+      "report": "Needs Improvement"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 12,
+      "patientName": "Julie Adams",
+      "currentScore": 58,
+      "targetScore": 76,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 13,
+      "patientName": "Kevin Lewis",
+      "currentScore": 80,
+      "targetScore": 85,
+      "report": "Good Progress"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 14,
+      "patientName": "Laura Scott",
+      "currentScore": 85,
+      "targetScore": 90,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 15,
+      "patientName": "Mark Robinson",
+      "currentScore": 50,
+      "targetScore": 72,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 16,
+      "patientName": "Nina Carter",
+      "currentScore": 72,
+      "targetScore": 80,
+      "report": "Moderate"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 17,
+      "patientName": "Oscar Phillips",
+      "currentScore": 69,
+      "targetScore": 82,
+      "report": "Needs Improvement"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 18,
+      "patientName": "Paula Turner",
+      "currentScore": 93,
+      "targetScore": 95,
+      "report": "Excellent"
+    },
+    {
+      "health_issue": "Gastric Problems",
+      "patientId": 19,
+      "patientName": "Quincy Hall",
+      "currentScore": 81,
+      "targetScore": 88,
+      "report": "Good Progress"
+    },
+    {
+      "health_issue": "Acidity",
+      "patientId": 20,
+      "patientName": "Rachel Allen",
+      "currentScore": 77,
+      "targetScore": 84,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 21,
+      "patientName": "Sam Young",
+      "currentScore": 62,
+      "targetScore": 79,
+      "report": "Needs Improvement"
+    },
+    {
+      "health_issue": "Parkinson's",
+      "patientId": 22,
+      "patientName": "Tina Baker",
+      "currentScore": 88,
+      "targetScore": 90,
+      "report": "Excellent"
+    },
+    {
+      "health_issue": "Alzheimer's",
+      "patientId": 23,
+      "patientName": "Umar Collins",
+      "currentScore": 79,
+      "targetScore": 85,
+      "report": "Moderate"
+    },
+    {
+      "health_issue": "Fits",
+      "patientId": 24,
+      "patientName": "Victor Parker",
+      "currentScore": 54,
+      "targetScore": 74,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Paralysis",
+      "patientId": 25,
+      "patientName": "Wendy Russell",
+      "currentScore": 91,
+      "targetScore": 94,
+      "report": "Excellent"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 26,
+      "patientName": "Xavier Clark",
+      "currentScore": 75,
+      "targetScore": 83,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Kidney stones",
+      "patientId": 27,
+      "patientName": "Yvonne Hughes",
+      "currentScore": 64,
+      "targetScore": 80,
+      "report": "Needs Improvement"
+    },
+    {
+      "health_issue": "Gall bladder stones",
+      "patientId": 28,
+      "patientName": "Zane Edwards",
+      "currentScore": 87,
+      "targetScore": 90,
+      "report": "Good Progress"
+    },
+    {
+      "health_issue": "Pancreas stones",
+      "patientId": 29,
+      "patientName": "Alan Woods",
+      "currentScore": 82,
+      "targetScore": 88,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Eye problems",
+      "patientId": 30,
+      "patientName": "Bella James",
+      "currentScore": 59,
+      "targetScore": 78,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Glaucoma",
+      "patientId": 31,
+      "patientName": "Chris Moore",
+      "currentScore": 68,
+      "targetScore": 80,
+      "report": "Needs Improvement"
+    },
+    {
+      "health_issue": "Liver Cleaning",
+      "patientId": 32,
+      "patientName": "Derek White",
+      "currentScore": 85,
+      "targetScore": 90,
+      "report": "Good Progress"
+    },
+    {
+      "health_issue": "Pancreas",
+      "patientId": 33,
+      "patientName": "Ella Green",
+      "currentScore": 73,
+      "targetScore": 81,
+      "report": "Moderate"
+    },
+    {
+      "health_issue": "Hepatitis A and B",
+      "patientId": 34,
+      "patientName": "Frank Black",
+      "currentScore": 65,
+      "targetScore": 79,
+      "report": "Needs Improvement"
+    },
+    {
+      "health_issue": "Nerve problems",
+      "patientId": 35,
+      "patientName": "Grace Hill",
+      "currentScore": 92,
+      "targetScore": 94,
+      "report": "Excellent"
+    },
+    {
+      "health_issue": "Vertigo and Migraine",
+      "patientId": 36,
+      "patientName": "Henry King",
+      "currentScore": 74,
+      "targetScore": 83,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Snoring",
+      "patientId": 37,
+      "patientName": "Ivy Scott",
+      "currentScore": 89,
+      "targetScore": 91,
+      "report": "Good Progress"
+    },
+    {
+      "health_issue": "Stammering",
+      "patientId": 38,
+      "patientName": "Jack Lee",
+      "currentScore": 63,
+      "targetScore": 78,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Snoring",
+      "patientId": 39,
+      "patientName": "Karen Adams",
+      "currentScore": 81,
+      "targetScore": 88,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Snoring",
+      "patientId": 40,
+      "patientName": "Liam Harris",
+      "currentScore": 78,
+      "targetScore": 85,
+      "report": "Moderate"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 41,
+      "patientName": "Mia Lopez",
+      "currentScore": 86,
+      "targetScore": 91,
+      "report": "Good Progress"
+    },
+    {
+      "health_issue": "Snoring",
+      "patientId": 42,
+      "patientName": "Noah Turner",
+      "currentScore": 56,
+      "targetScore": 73,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 43,
+      "patientName": "Olivia Hall",
+      "currentScore": 77,
+      "targetScore": 84,
+      "report": "Moderate"
+    },
+    {
+      "health_issue": "Snoring",
+      "patientId": 44,
+      "patientName": "Patrick Young",
+      "currentScore": 83,
+      "targetScore": 89,
+      "report": "Stable"
+    },
+    {
+      "health_issue": "Tachy cardia",
+      "patientId": 45,
+      "patientName": "Quinn Baker",
+      "currentScore": 90,
+      "targetScore": 93,
+      "report": "Excellent"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 46,
+      "patientName": "Rose Parker",
+      "currentScore": 66,
+      "targetScore": 79,
+      "report": "Needs Improvement"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 47,
+      "patientName": "Sean Collins",
+      "currentScore": 84,
+      "targetScore": 90,
+      "report": "Good Progress"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 48,
+      "patientName": "Tara Russell",
+      "currentScore": 72,
+      "targetScore": 80,
+      "report": "Moderate"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 49,
+      "patientName": "Uma Clark",
+      "currentScore": 58,
+      "targetScore": 76,
+      "report": "Critical"
+    },
+    {
+      "health_issue": "Pneumonia",
+      "patientId": 50,
+      "patientName": "Victor Hughes",
+      "currentScore": 89,
+      "targetScore": 91,
+      "report": "Stable"
+    }
+  ]
+  
