@@ -1,24 +1,23 @@
 import { DataTable } from "primereact/datatable";
 import { Column } from "primereact/column";
 import CustomDataTable from "@/components/CustomDataTable";
+import jsonData from "@/static/data.json";
 
 interface DataItem {
   id: number;
-  name: string;
-  age: number;
+  health_issue: string;
+  decoctions: string;
+  millets: string;
 }
 
 const Protocols = () => {
-  const data: DataItem[] = [
-    { id: 1, name: "John Doe", age: 28 },
-    { id: 2, name: "Jane Smith", age: 34 },
-    { id: 3, name: "Alice Johnson", age: 24 },
-  ];
+  const data: DataItem[] = jsonData;
 
   const columns: { field: keyof DataItem; header: string }[] = [
     { field: "id", header: "ID" },
-    { field: "name", header: "Name" },
-    { field: "age", header: "Age" },
+    { field: "health_issue", header: "Health Issue" },
+    { field: "decoctions", header: "Decoctions" },
+    { field: "millets", header: "Millets" },
   ];
 
   return (

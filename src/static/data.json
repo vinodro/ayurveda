@@ -1,0 +1,674 @@
+[
+    {
+      "id": 1,
+      "health_issue": "Dialysis",
+      "decoctions": "Nyctanthes arbor-tristis, Coriander, Bryophyllum pinnatum, Banana stem (organic) Boerhavia diffusa, Abutilon indicum",
+      "millets": "Little millet - 3 days\nKodo millet - 3 days\nBarnyard millet - 3 days\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+    },
+    {
+      "id": 2,
+      "health_issue": "Albumin Urea",
+      "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+      "millets": "Little millet - 3 days\nKodo millet - 3 days\nBarnyard millet - 3 days\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+    },
+    {
+      "id": 3,
+      "health_issue": "Gout",
+      "decoctions": "",
+      "millets": "Best way to consume millets in the form of Fermented porridge for 9 weeks (For Dialysis patients)"
+    },
+    {
+      "id": 4,
+      "health_issue": "Obesity / Weight loss",
+      "decoctions": "Peepal, Betel leaves (Remove the petiole), Cumin seeds, Bermuda grass, Wild date palm leaves, organic turmeric powder or turmeric bulb",
+      "millets": "Little millet - 3 days\nKodo millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+    },
+    {
+      "id": 5,
+      "health_issue": "Hernia",
+      "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+      "millets": "Little millet - 3 days\nKodo millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+    },
+    {
+      "id": 6,
+      "health_issue": "Weight gain (Underweight)",
+      "decoctions": "Mustard seeds, Fenugreek seeds, Cumin seeds, Banana stem, Abutilon indicum",
+      "millets": "Little millet - 3 days\nKodo millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+    },
+    {
+      "id": 7,
+      "health_issue": "Asthma",
+      "decoctions": "Organic turmeric powder or turmeric root, Organic ginger, Ruta graveolens, Neem, Curry leaves, Bermuda grass, Abutilon indicum, Tinospora cordifolia, Japanese Mugwort leaves",
+      "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+    },
+    {
+      "id": 8,
+      "health_issue": "T.B.",
+      "decoctions": "",
+      "millets": "Barnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+    },
+    {
+      "id": 9,
+      "health_issue": "Pneumonia",
+      "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+      "millets": ""
+    },
+    {
+      "id": 10,
+      "health_issue": "Sinusitis",
+      "decoctions": "",
+      "millets": ""
+    },
+    {
+      "id": 11,
+      "health_issue": "Respiratory related issues",
+      "decoctions": "",
+      "millets": ""
+    },
+    {
+      "id": 12,
+      "health_issue": "Gastric Problems",
+      "decoctions": "Betel leaves (Remove the petiole), Fenugreek leaves, Pongamia pinnata leaves, Cumin seeds, Senna leaves, Abutilon indicum",
+      "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days"
+    },
+    {
+      "id": 13,
+      "health_issue": "Acidity",
+      "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+      "millets": ""
+    },
+    {
+      "id": 14,
+      "health_issue": "GERD (Gastroesophageal reflux disease)/ Acid reflux",
+      "decoctions": "The best way to consume millets in the form of fermented porridge for 5 to 6 weeks",
+      "millets": ""
+    },
+    {
+      "id": 15,
+      "health_issue": "Parkinson's",
+      "decoctions": "Guava leaves, Nyctanthes arbor-tristis, Peepal, Ruta graveolens, Neem, Cinnamon sticks, Organic turmeric powder or turmeric bulb, Abutilon indicum leaves",
+      "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nKodo millet - 1 day\nLittle millet - 1 day"
+    },
+    {
+      "id": 16,
+      "health_issue": "Alzheimer's",
+      "decoctions": "",
+      "millets": "Barnyard millet - 1 day\nKodo millet - 1 day"
+    },
+    {
+      "id": 17,
+      "health_issue": "Fits",
+      "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+      "millets": "Little millet - 1 day"
+    },
+    {
+      "id": 18,
+      "health_issue": "Paralysis",
+      "decoctions": "Oils: Niger seed oil/ Coconut oil/ Peanut oil/ Safflower oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+      "millets": "" 
+    },
+    {
+      "id": 19,
+      "health_issue": "Kidney stones",
+      "decoctions": "Coriander leaves, Boerhavia diffusa, Bryophyllum pinnatum, Banana stem, Pongamia pinnata, Abutilon indicum",
+      "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days"
+    },
+    {
+      "id": 20,
+      "health_issue": "Gall bladder stones",
+      "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+      "millets": ""
+    },
+    {
+      "id": 21,
+      "health_issue": "Pancreas stones",
+      "decoctions": "Oils: Niger seed oil/ Coconut oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+      "millets": "The best way to consume millets in the form of fermented porridge for 5 to 6 weeks" 
+    },
+    {
+      "id": 22,
+      "health_issue": "Eye problems",
+      "decoctions": "Dill weed leaves, Drumstick leaves, Mint leaves, Curry leaves, Betel leaves (Remove the petiole), Ruta graveolens",
+      "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+    },
+    {
+      "id": 23,
+      "health_issue": "Glaucoma",
+      "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+      "millets": ""
+    },
+    {
+      "id": 24,
+      "health_issue": "Liver Cleaning",
+      "decoctions": "Ruta graveolens, Fenugreek seeds or leaves, Bryophyllum pinnatum, Boerhavia diffusa, Phyllanthus niruri, Abutilon indicum",
+    "millets": "Barnyard millet - 3 days\nKodo millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+      "id": 25,
+    "health_issue": "Kidney Cleaning",
+    "decoctions": "",
+    "millets": "Little millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+      "id": 26,
+    "health_issue": "Pancreas",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": ""
+  },
+  {
+      "id": 27,
+    "health_issue": "Hepatitis A and B",
+    "decoctions": "Bermuda grass, Guava leaves, Nyctanthes arbor-tristis, Ruta graveolens, Organic turmeric powder or turmeric bulb, Abutilon indicum",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+      "id": 28,
+    "health_issue": "Nerve problems",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": ""
+  },
+  {
+      "id": 29,
+    "health_issue": "Vertigo and Migraine",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+      "id": 30,
+    "health_issue": "Sweat in Palms/Sweat in Foot soles",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+      "id": 31,
+    "health_issue": "Snoring",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+      "id": 32,
+    "health_issue": "Stammering",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+      "id": 33,
+    "health_issue": "Hearing Problems",
+    "decoctions": "Oils: Coconut oil/ Sesame oil/ Niger seed oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": ""
+  },
+  {
+      "id": 34,
+    "health_issue": "Tachy cardia",
+    "decoctions": "Coriander leaves, Holy basil, Betel leaves (Remove the petiole). Mint, Tinospora cordifolia, Abutilon indicum",
+    "millets": "Little millet - 2 days\nKodo millet - 2 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+      "id": 35,
+    "health_issue": "After Heart attack",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": ""
+  },
+  {
+      "id": 36,
+    "health_issue": "Hole in the Heart",
+    "decoctions": "",
+    "millets": "The best way to consume millets in the form of fermented porridge for 5 to 6 weeks"
+  },
+  {
+    "id": 36,
+    "health_issue": "Liver Cleaning",
+    "decoctions": "Ruta graveolens, Fenugreek seeds or leaves, Bryophyllum pinnatum, Boerhavia diffusa, Phyllanthus niruri, Abutilon indicum",
+    "millets": "Barnyard millet - 3 days\nKodo millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 37,
+    "health_issue": "Kidney Cleaning",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": "Little millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 38,
+    "health_issue": "Pancreas",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 39,
+    "health_issue": "Hepatitis A and B",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 40,
+    "health_issue": "Nerve problems",
+    "decoctions": "Bermuda grass, Guava leaves, Nyctanthes arbor-tristis, Ruta graveolens, Organic turmeric powder or turmeric bulb, Abutilon indicum",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+    "id": 41,
+    "health_issue": "Vertigo and Migraine",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": "Barnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+    "id": 42,
+    "health_issue": "Sweat in Palms/Sweat in Foot soles",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 43,
+    "health_issue": "Snoring",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 44,
+    "health_issue": "Stammering",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 45,
+    "health_issue": "Tachycardia",
+    "decoctions": "Coriander leaves, Holy basil, Betel leaves (Remove the petiole), Mint, Tinospora cordifolia, Abutilon indicum",
+    "millets": "Little millet - 2 days\nKodo millet - 2 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 46,
+    "health_issue": "After Heart attack",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": "Barnyard millet - 1 day\nKodo millet - 2 days\nFoxtail millet - 2 days\nBrown top millet - 2 days\nLittle millet - 2 days"
+  },
+  {
+    "id": 47,
+    "health_issue": "Hole in the Heart",
+    "decoctions": "Juices: Salad cucumber/ Bottle gourd/ Ash gourd.\nConsume above mentioned juices one week each and repeat the cycle for 9 weeks.\nJuices should be taken on empty stomach and maintain gap 30mins between decoctions and juices.",
+    "millets": "The best way to consume millets in the form of fermented porridge for 5 to 6 weeks"
+  },
+  {
+    "id": 48,
+    "health_issue": "C4, C5",
+    "decoctions": "Curry leaves, Nyctanthes arbor-tristis, Guava leaves, Abutilon indicum, Pongamia pinnata, Tender tamarind leaves",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+      "id": 49,
+    "health_issue": "L4, L5",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle.",
+    "millets": "Little millet - 1 day\nTake weekly one sesame laddu made with palm jaggery"
+  },
+  {
+      "id": 50,
+    "health_issue": "Sciatica",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+      "id": 51,
+    "health_issue": "Varicose veins",
+    "decoctions": "Aegle marmelos, Ivy gourd leaves, Nyctanthes arbor-tristis leaves, papaya leaves, Curry leaves",
+    "millets": "Little millet - 3 days\nKodo millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+      "id": 52,
+    "health_issue": "Varicocele",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": ""
+  },
+  {
+      "id": 53,
+    "health_issue": "Hydrocele",
+    "decoctions": "Juices: Tomato / Ivy gourd / Capsicum\nConsume above mentioned juices one week each and repeat the cycle.\nJuices should be taken on empty stomach and maintain gap 30mins between decoctions and juices.\nApply tomato juice on varicose veins and wash it after some time. Apply homeo medicine Hamamelis Virginica.",
+    "millets": ""
+  },
+  {
+      "id": 54,
+    "health_issue": "Platelets Increase",
+    "decoctions": "Nyctanthes arbor-tristis, Papaya leaves, Curry leaves, Drumstick leaves, Holy basil, Tinospora cordifolia, Tender tamarind leaves, Aegle marmelos",
+    "millets": "Little millet - 2 days\nKodo millet - 2 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+      "id": 55,
+    "health_issue": "Dengue fever",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": ""
+  },
+  {
+      "id": 56,
+    "health_issue": "Platelets decrease",
+    "decoctions": "Nyctanthes arbor-tristis, Papaya leaves, Holy basil, Bermuda grass, Wild date palm, Sambar onion, Drumstick leaves, Tender tamarind leaves",
+    "millets": "Little millet - 2 days\nKodo millet - 2 days\nBarnyard millet - 2 days\nFoxtail millet - 2 days\nBrown top millet - 2 days"
+  },
+  {
+      "id": 57,
+    "health_issue": "WBC decrease",
+    "decoctions": "",
+    "millets": "Little millet - 2 days\nKodo millet - 2 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+      "id": 58,
+    "health_issue": "Infertility",
+    "decoctions": "Tender tamarind, Drumstick leaves, Peepal leaves, Neem leaves, betel leaves (Remove the petiole), Abutilon indicum, Mango leaves",
+    "millets": "Little millet - 3 days\nKodo millet - 1 day\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 59,
+    "health_issue": "Low Sperm count",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": ""
+  },
+  {
+    "id": 60,
+    "health_issue": "Constipation",
+    "decoctions": "Pongamia pinnata, Senna, Roselle, Fenugreek leaves, Coriander leaves, Banana stem",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+    "id": 61,
+    "health_issue": "Piles",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": ""
+  },
+  {
+    "id": 62,
+    "health_issue": "Fistula",
+    "decoctions": "",
+    "millets": "The best way to consume millets in the form of fermented porridge for 5 to 6 weeks"
+  },
+  {
+    "id": 63,
+    "health_issue": "Fissures",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 64,
+    "health_issue": "Urine infection",
+    "decoctions": "Bryophyllum pinnatum, Coriander leaves, Mint, Boerhavia diffusa, Drumstick leaves, Ruta graveolens, Dillweed leaves, Banana stem.",
+    "millets": "Little millet - 3 days\nKodo millet - 1 day\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 65,
+    "health_issue": "Prostate (Men)",
+    "decoctions": "Using of structured water for cooking and drinking is mandatory.\nTake buttermilk. Finger millet milk, Pearl millet milk works very well on this issue. Take Fenugreek seed water, coconut water, and lemon water. One can take Bottle gourd/ Ash gourd/ Salad cucumber juice. One can also take Banana stem decoction with outer layer in the morning and evening.\nAfter urination clean that part with Sour buttermilk. After 2 to 3 minutes wash it with clean water. This has to be done for a week.",
+    "millets": "Kodo millet - 1 day\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 66,
+    "health_issue": "HIV",
+    "decoctions": "Wild date palm leaves, Bermuda grass, Tinospora cordifolia, Pongamia pinnata, Aegle marmelos, Phyllanthus niruri leaves\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Kodo millet - 3 days\nLittle millet - 1 day\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day\nThe best way to consume millets in the form of fermented porridge for 5 to 6 weeks\nOils: Coconut oil / Niger seed oil / Peanut oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoction.\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers."
+  },
+  {
+    "id": 67,
+    "health_issue": "Skin problems",
+    "decoctions": "Aloe vera, Centella asiatica, Mint, coriander, Dill weed, Abutilon indicum",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+    "id": 68,
+    "health_issue": "Psoriasis",
+    "decoctions": "Consume all above decoctions one week each and repeat the cycle",
+    "millets": ""
+  },
+  {
+    "id": 69,
+    "health_issue": "Eczema dry/ weeping",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 70,
+    "health_issue": "Vitiligo",
+    "decoctions": "Oils: Sesame oil / Coconut oil / Safflower oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.\nDaily Night apply Sesame Oil to the affected area.",
+    "millets": ""
+  },
+  {
+    "id": 71,
+    "health_issue": "Ichthyosis",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 72,
+    "health_issue": "Bald Head",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 73,
+    "health_issue": "Alopecia Areata/ Alopecia Totallis",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 74,
+    "health_issue": "E.S.R",
+    "decoctions": "Nyctanthes arbor-tristis, Papaya leaves, Curry leaves, Abutilon indicum, Banana stem, Sambar onion, Fenugreek leaves\nConsume all above decoctions one week each and repeat the cycle\nJuices: Take the below juices for 21 days give one-week gap and again you can take the juices.\nMorning - (1 hour Before Breakfast)\nCarrot - 25 gm\nBeetroot - 25 gm\nGuava/Gooseberry - 5 g\nGrind all above mixture and add 200 ml water to prepare Juice.\nEvening - (1 hour Before Dinner)\n20 Curry leaves (Grinded)\nSoak these in Butter milk for 30 mins and Consume.",
+    "millets": "Kodo millet - 3 days\nLittle millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 75,
+    "health_issue": "Urticaria",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 76,
+    "health_issue": "I.B.S",
+    "decoctions": "Pongamia pinnata, Senna, Castor leaves, Fenugreek leaves, Banana stem\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+    "id": 77,
+    "health_issue": "Colitis",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 78,
+    "health_issue": "Crohn's disease",
+    "decoctions": "",
+    "millets": "The best way to consume millets in the form of fermented porridge for 5 to 6 weeks"
+  },
+
+  {
+    "id": 79,
+    "health_issue": "Anemia",
+    "decoctions": "Nyctanthes arbor-tristis, Papaya leaves, Curry leaves, Fenugreek leaves\nConsume all above decoctions one week each and repeat the cycle\nJuices: Take the below juices for 21 days give one-week gap and again you can take the juices.\nMorning: (1 hour Before Breakfast)\nCarrot - 25 gm\nBeetroot - 25 gm\nGuava / Gooseberry - 5 gm\nGrind all above mixture and add 200 ml water to prepare Juice.\nEvening: (1 hour Before Dinner)\n20 Curry leaves (Grinded)\nSoak these in Butter milk for 30 mins and Consume.",
+    "millets": "Kodo millet - 3 days\nLittle millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 80,
+    "health_issue": "Dental problems",
+    "decoctions": "Wild date palm leaves, Tender tamarind leaves, Pongamia pinnata, Organic turmeric powder or Bulb, Peepal\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Kodo millet - 3 days\nLittle millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 81,
+    "health_issue": "Gum problems",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 82,
+    "health_issue": "Bleeding gums",
+    "decoctions": "Stop using tooth paste and clean the teeth and gums with activated charcoal powder by using fingers.",
+    "millets": ""
+  },
+  {
+    "id": 83,
+    "health_issue": "Gums pain",
+    "decoctions": "Guava leaves, Cloves, Chamomile leaves, Pongamia pinnata leaves, Tridax procumbens leaves\nConsume all above decoctions one week each and repeat the cycle\nStop using tooth paste and clean the teeth and gums with activated charcoal powder by using fingers.",
+    "millets": "Kodo millet - 3 days\nLittle millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 84,
+    "health_issue": "Dental pain",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 85,
+    "health_issue": "Chikungunya",
+    "decoctions": "Bermuda grass, Ruta graveolens, Chamomile leaves, Guava leaves, Nyctanthes arbor-tristis, Abutilon indicum, Chrysanthemum leaves (home grown)\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+
+  {
+    "id": 86,
+    "health_issue": "Lupus, S.L.E",
+    "decoctions": "Wild date palm leaves, Aegle marmelos, Pongamia pinnata, Abutilon indicum\nConsume all above decoctions one week each and repeat the cycle\nOils: Coconut oil/ Safflower oil / Niger seed oil.\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day\nThe best way to consume millets in the form of fermented porridge for 5 to 6 weeks" 
+  },
+  {
+    "id": 87,
+    "health_issue": "H1 N1",
+    "decoctions": "Peepal, Nyctanthes arbor-tristis, Holy basil\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Millet Porridge: 10 days"
+  },
+  {
+    "id": 88,
+    "health_issue": "H5 N1",
+    "decoctions": "",
+    "millets": "Kodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+    "id": 89,
+    "health_issue": "Joint Swellings /Joint pains",
+    "decoctions": "Guava leaves, Nyctanthes arbor-tristis, Aegle marmelos, Bermuda grass, Mint leaves, Tridax procumbens leaves, Castor Oil leaves, Pongamia pinnata leaves.\nConsume all above decoctions one week each and repeat the cycle\nApply Sesame Oil to the body and massage well. Try to walk as long as possible at a stretch either during sunrise or sunset.",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+  {
+    "id": 90,
+    "health_issue": "Arthritis",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 91,
+    "health_issue": "Rheumatoid Arthritis",
+    "decoctions": "Silver date palm leaves, Pongamia pinnata leaves, Nyctanthes arbor-tristis leaves, Coriander leaves, Bermuda grass, Guava leaves, Roselle.\nConsume all above decoctions one week each and repeat the cycle\nApply Sesame Oil to the body and massage well. Try to walk as long as possible at a stretch either during sunrise or sunset.",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day"
+  },
+
+  {
+    "id": 92,
+    "health_issue": "Viral fevers: Malaria, Typhoid",
+    "decoctions": "Morning and Evening:\nTinospora cordifolia: 1 day\nRuta graveolens: 1 day\nNyctanthes arbor-tristis: 1 day\nJapanese mugwort: 1 day\n(Repeat the cycle)",
+    "millets": "Ambali / Gruel of Kodo and Little millets should be taken on alternative days for ten days."
+  },
+  {
+    "id": 93,
+    "health_issue": "Fatty liver",
+    "decoctions": "Ruta graveolens, Mint leaves, Aegle marmelos, Betel leaves (remove the petiole), Abutilon indicum\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Kodo millet - 3 days\nLittle millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 94,
+    "health_issue": "Spleen",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 95,
+    "health_issue": "Pancreatitis",
+    "decoctions": "Oils: Coconut oil / Safflower oil / Niger seed oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": ""
+  },
+  {
+    "id": 96,
+    "health_issue": "Differently abled\nAutism\nCerebral palsy\nPhysically disabled\nA.D.H.D",
+    "decoctions": "Aegle marmelos, Bermuda grass, Pongamia pinnata, Banana stem, Guava leaves\nConsume all above decoctions one week each and repeat the cycle\nOils: Coconut oil / Sesame oil / Niger seed oil / Safflower oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days\nThe best way to consume millets in the form of fermented porridge for 5 to 6 weeks"
+  },
+  {
+    "id": 98,
+    "health_issue": "During Pregnancy",
+    "decoctions": "Chrysanthemum leaves, Abutilon indicum, Betel leaves (Remove the petiole), Roselle, Lemon grass, Mint leaves\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days"
+  },
+
+  {
+    "id": 92,
+    "health_issue": "Viral fevers: Malaria, Typhoid",
+    "decoctions": "Morning and Evening:\nTinospora cordifolia: 1 day\nRuta graveolens: 1 day\nNyctanthes arbor-tristis: 1 day\nJapanese mugwort: 1 day\n(Repeat the cycle)",
+    "millets": "Ambali / Gruel of Kodo and Little millets should be taken on alternative days for ten days."
+  },
+  {
+    "id": 93,
+    "health_issue": "Fatty liver",
+    "decoctions": "Ruta graveolens, Mint leaves, Aegle marmelos, Betel leaves (remove the petiole), Abutilon indicum\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Kodo millet - 3 days\nLittle millet - 3 days\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+  {
+    "id": 94,
+    "health_issue": "Spleen",
+    "decoctions": "",
+    "millets": ""
+  },
+  {
+    "id": 95,
+    "health_issue": "Pancreatitis",
+    "decoctions": "Oils: Coconut oil / Safflower oil / Niger seed oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": ""
+  },
+  {
+    "id": 96,
+    "health_issue": "Differently abled\nAutism\nCerebral palsy\nPhysically disabled\nA.D.H.D",
+    "decoctions": "Aegle marmelos, Bermuda grass, Pongamia pinnata, Banana stem, Guava leaves\nConsume all above decoctions one week each and repeat the cycle\nOils: Coconut oil / Sesame oil / Niger seed oil / Safflower oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days\nThe best way to consume millets in the form of fermented porridge for 5 to 6 weeks"
+  },
+  {
+    "id": 98,
+    "health_issue": "During Pregnancy",
+    "decoctions": "Chrysanthemum leaves, Abutilon indicum, Betel leaves (Remove the petiole), Roselle, Lemon grass, Mint leaves\nConsume all above decoctions one week each and repeat the cycle",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days"
+  },
+  {
+    "id": 99,
+    "health_issue": "After Pregnancy",
+    "decoctions": "Chrysanthemum leaves, Lemon grass, Mint leaves, Roselle leaves\nConsume all above decoctions one week each and repeat the cycle\nTake kashayams leaves one week each and repeat.\nTake pearl millet daily at least in one meal\nUse Asafetida, garlic in pickles, dal and in curries.\nRemove the peel of the castor seeds and use it in curries or directly weekly twice.\nTake Kenaf leaves chutney, kenaf leaf dal and you can take all other pickles too.",
+    "millets": "Little millet - 3 days\nKodo millet - 1 day\nBarnyard millet - 1 day\nFoxtail millet - 1 day\nBrown top millet - 1 day"
+  },
+
+  {
+    "id": 100,
+    "health_issue": "Motor Neuron diseases",
+    "decoctions": "Organic turmeric powder or turmeric bulb, Aegle marmelos, Ruta graveolens, Bermuda grass, Nyctanthes arbor-tristis, Betel leaves (Remove the petiole)\nConsume all above decoctions one week each and repeat the cycle\nOils: Coconut oil / Sesame oil / Niger seed oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 3 days\nBrown top millet - 3 days\nLittle millet - 1 day\nBarnyard millet - 1 day\nKodo millet - 1 day\nThe best way to consume millets in the form of fermented porridge for 5 to 6 weeks" 
+  },
+  {
+    "id": 101,
+    "health_issue": "Muscular Dystrophy",
+    "decoctions": "Abutilon indicum, Organic turmeric powder or turmeric bulb, Ruta graveolens, Bermuda grass, Guava, Nyctanthes arbor-tristis\nConsume all above decoctions one week each and repeat the cycle\nOils: Niger seed oil / Coconut oil / Sesame oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day\nThe best way to consume millets in the form of fermented porridge for 5 to 6 weeks" 
+  },
+  {
+    "id": 102,
+    "health_issue": "Scleroderma",
+    "decoctions": "Wild date palm leaves, Centella asiatica, Bermuda grass, Nyctanthes arbor-tristis, Guava leaves.\nConsume all above decoctions one week each and repeat the cycle\nOils: Coconut oil / Sesame oil / Peanut oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 1 day\nKodo millet - 1 day\nLittle millet - 1 day" 
+  },
+
+  {
+    "id": 103,
+    "health_issue": "Multiple Sclerosis",
+    "decoctions": "Roselle, Aegle marmelos, Wild date palm leaves, Nyctanthes arbor-tristis, Bermuda grass\nConsume all above decoctions one week each and repeat the cycle\nOils: Coconut oil / Sesame oil / Safflower oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days" 
+  },
+  {
+    "id": 104,
+    "health_issue": "Ankylosing Spondylitis",
+    "decoctions": "Mango leaves - 1 week\nBanyan leaves - 1 week\nLemon grass - 1 week\nHoly basil - 1 week\nOils: Safflower / Niger seed oil / Peanut oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days" 
+  },
+  {
+    "id": 105,
+    "health_issue": "Myasthenia Gravis",
+    "decoctions": "Wild date palm leaves, Bermuda grass, Drumstick leaves, Curry leaves, Tender tamarind leaves\nConsume all above decoctions one week each and repeat the cycle\nOils: Sesame oil / Coconut oil / Niger seed oil\nConsume all above mentioned oils one week each and repeat the cycle. Take 2 to 3 spoons of oil and maintain gap of 30 mins between oils and decoctions\nSource of oils should be strictly from bull driven wooden Ghana's\nOils should be stored in glass or porcelain containers.",
+    "millets": "Foxtail millet - 2 days\nBrown top millet - 2 days\nBarnyard millet - 2 days\nKodo millet - 2 days\nLittle millet - 2 days" 
+  }
+]
