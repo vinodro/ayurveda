@@ -12,7 +12,6 @@ interface DataItem {
 
 const Protocols = () => {
   const data: DataItem[] = jsonData;
-
   const columns: { field: keyof DataItem; header: string }[] = [
     { field: "id", header: "ID" },
     { field: "health_issue", header: "Health Issue" },
@@ -28,7 +27,13 @@ const Protocols = () => {
         <Column field="name" header="Name"></Column>
         <Column field="age" header="Age"></Column>
       </DataTable> */}
-      <CustomDataTable data={data} columns={columns} />
+      <CustomDataTable
+        data={jsonData}
+        columns={columns}
+        sortField="id"
+        sortOrder={1}
+        defaultSortOrder={1}
+      />
     </div>
   );
 };
