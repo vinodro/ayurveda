@@ -63,7 +63,7 @@ const Trials = () => {
         columns={columns}
         rowGroupMode="subheader"
         rowGroupHeaderTemplate={rowGroupHeaderTemplate}
-        sortField="id"
+        sortField="health_issue"
         sortOrder={1}
         defaultSortOrder={1}
       />
