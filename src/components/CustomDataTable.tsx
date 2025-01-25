@@ -45,7 +45,7 @@ const CustomDataTable = <T extends object>({
   return (
     <div
       style={{
-        height: "calc(100vh - 200px)",
+        height: "calc(100vh - 280px)",
         padding: "1rem",
         boxSizing: "border-box",
       }}
@@ -61,13 +61,14 @@ const CustomDataTable = <T extends object>({
         groupRowsBy={groupRowsBy}
         sortMode={sortMode || "single"}
         sortField={sortField}
-        scrollHeight="calc(100vh - 200px)"
+        scrollHeight="calc(100vh - 280px)"
         tableStyle={{ minWidth: "50rem" }}
         style={{
           width: "100%",
           maxHeight: "100%",
           border: "1px solid #ddd",
           borderRadius: "5px",
+          marginBottom: "20px",
         }}
         selection={selection}
         selectionMode={selectionMode}

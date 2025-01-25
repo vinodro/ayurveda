@@ -54,7 +54,35 @@ export default function RootLayout({
             />
           </div>
         </nav>
-        <main>{children}</main>
+        <main className="pb-20">{children}</main>
+        <footer className="fixed bottom-0 w-full bg-gray-800 text-white p-3 z-50">
+          <div className="flex justify-center gap-6">
+            <a 
+              href="https://linkedin.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="hover:text-blue-400 transition-colors"
+            >
+              <i className="pi pi-linkedin text-2xl"></i>
+            </a>
+            <a 
+              href="https://twitter.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="hover:text-blue-400 transition-colors"
+            >
+              <i className="pi pi-twitter text-2xl"></i>
+            </a>
+            <a 
+              href="https://instagram.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="hover:text-pink-400 transition-colors"
+            >
+              <i className="pi pi-instagram text-2xl"></i>
+            </a>
+          </div>
+        </footer>
       </body>
     </html>
   );
