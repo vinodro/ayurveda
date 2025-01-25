@@ -50,8 +50,8 @@ const Home = () => {
   };
 
   return (
-    <div className="relative h-screen">
-      <div className="flex flex-column justify-content-center items-center h-screen p-4">
+    <div className="relative flex items-center justify-content-center" style={{ height: 'calc(100vh - 180px)' }}>
+      <div className="flex flex-column justify-content-center items-center p-4">
         <h2 className="text-3xl font-bold mb-8">What Our Users Say</h2>
         <div className="w-full max-w-6xl">
           <Carousel 

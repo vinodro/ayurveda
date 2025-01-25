@@ -1,27 +1,29 @@
 "use client";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { useRouter } from "next/navigation";
+import { Button } from "primereact/button";
 
 export default function HeaderNavigator() {
-    const pathname = usePathname()
-
-    if(pathname !== "/") {
-        return ( 
-        <div className="p-4">
-            <ul style={{ display: "flex", gap: "10px", listStyleType: "none" }}>
-            <li>
-                <Link href="/">Home</Link>
-            </li>
-            <li>
-                <Link href="/protocols">Protocols</Link>
-            </li>
-            <li>
-                <Link href="/trials">Trials</Link>
-            </li>
-            </ul>
-        </div>
-        );
-    } else {
-        return null;
-    }
+    const router = useRouter();
+    return (
+    <div className="flex gap-4">
+    <Button
+      label="Home"
+      icon="pi pi-arrow-right"
+      className="p-button-primary"
+      onClick={() => router.push("/")}
+    />
+    <Button
+      label="Protocols"
+      icon="pi pi-arrow-right"
+      className="p-button-primary"
+      onClick={() => router.push("/protocols")}
+    />
+    <Button
+      label="Trials"
+      icon="pi pi-arrow-right"
+      className="p-button-success"
+      onClick={() => router.push("/trials")}
+    />
+  </div>
+  );
 }

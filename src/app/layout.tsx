@@ -4,6 +4,7 @@ import "./globals.css";
 import HeaderNavigator from "@/components/HeaderNavigator";
 import { useRouter } from "next/navigation";
 import { Button } from "primereact/button";
+import Link from "next/link";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -26,35 +27,19 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <nav className="flex justify-content-between justify-between items-center p-2 pl-4 shadow-7">
-          <div>
-            <h1 className={"title-ayurveda-logo"}>Ayurveda</h1>
-            {/* <Image src={ayurveda_logo} alt="logo" className="w-10 h-10" /> */}
+        <nav className="fixed top-0 w-full flex justify-content-between justify-between items-center p-2 pl-4 shadow-7 z-50 overflow-y-hidden">
+          <div className="flex items-center p-3">
+            <Link 
+              href="/" 
+              className="title-ayurveda-logo select-none cursor-pointer text-4xl font-bold no-underline text-gray-800"
+              style={{ userSelect: 'none', WebkitUserSelect: 'none' }}
+            >
+              Ayurveda
+            </Link>
           </div>
-          <div className="flex gap-4">
-            {/* <HeaderNavigator /> */}
-
-            <Button
-              label="Home"
-              icon="pi pi-arrow-right"
-              className="p-button-primary"
-              onClick={() => router.push("/")}
-            />
-            <Button
-              label="Protocols"
-              icon="pi pi-arrow-right"
-              className="p-button-primary"
-              onClick={() => router.push("/protocols")}
-            />
-            <Button
-              label="Trials"
-              icon="pi pi-arrow-right"
-              className="p-button-success"
-              onClick={() => router.push("/trials")}
-            />
-          </div>
+          <HeaderNavigator />
         </nav>
-        <main className="pb-20">{children}</main>
+        <main className="flex-1 overflow-y-auto mt-24 pb-20">{children}</main>
         <footer className="fixed bottom-0 w-full bg-gray-800 text-white p-3 z-50">
           <div className="flex justify-center gap-6">
             <a 
