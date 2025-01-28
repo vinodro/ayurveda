@@ -3,117 +3,218 @@ import React from "react";
 const HealthIssueTable: React.FC = () => {
   return (
     <div className="p-4">
-      <table className="table-auto border-collapse border border-gray-500 w-full">
-        <thead>
-          <tr className="bg-orange-200">
-            <th className="border border-gray-500 p-2">Health Issue</th>
-            <th className="border border-gray-500 p-2">Decoctions</th>
-            <th className="border border-gray-500 p-2">Millets</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td className="border border-gray-500 p-2">Dialysis</td>
-            <td className="border border-gray-500 p-2">
-              Nyctanthes arbor-tristis, Coriander, Bryophyllum pinnatum, Banana
-              stem (organic) Boerhavia diffusa, Abutilon indicum
-            </td>
-            <td className="border border-gray-500 p-2">
-              <ul>
-                <li>Little millet - 3 days</li>
-                <li>Kodo millet - 3 days</li>
-                <li>Barnyard millet - 3 days</li>
-                <li>Foxtail millet - 1 day</li>
-                <li>Brown top millet - 1 day</li>
-              </ul>
-            </td>
-          </tr>
-          <tr>
-            <td className="border border-gray-500 p-2">Albumin Urea</td>
-            <td className="border border-gray-500 p-2">
-              Consume all above decoctions one week each and repeat the cycle
-            </td>
-            <td className="border border-gray-500 p-2">
-              Best way to consume millets is in the form of fermented porridge
-              for 9 weeks (For Dialysis patients)
-            </td>
-          </tr>
-          <tr>
-            <td className="border border-gray-500 p-2">Diabetes</td>
-            <td className="border border-gray-500 p-2">
-              Tinospora cordifolia, Jamun leaves, Ivy gourd leaves, Mint,
-              Drumstick leaves, Abutilon indicum, Fenugreek leaves, Coriander
-              leaves
-              <br />
-              Consume all above decoctions one week each and repeat the cycle
-            </td>
-            <td className="border border-gray-500 p-2">
-              <ul>
-                <li>Little millet - 2 days</li>
-                <li>Kodo millet - 2 days</li>
-                <li>Barnyard millet - 2 days</li>
-                <li>Foxtail millet - 2 days</li>
-                <li>Brown top millet - 2 days</li>
-              </ul>
-            </td>
-          </tr>
-          <tr>
-            <td className="border border-gray-500 p-2">Thyroid</td>
-            <td className="border border-gray-500 p-2">
-              Drumstick leaves, Tender tamarind leaves, Betel leaves (Remove the
-              petiole), Pongamia pinnata, Roselle, Abutilon indicum, Tinospora
-              cordifolia
-            </td>
-            <td className="border border-gray-500 p-2">
-              <ul>
-                <li>Little millet - 3 days</li>
-                <li>Kodo millet - 1 day</li>
-                <li>Barnyard millet - 1 day</li>
-                <li>Foxtail millet - 1 day</li>
-                <li>Brown top millet - 1 day</li>
-              </ul>
-            </td>
-          </tr>
-          <tr>
-            <td className="border border-gray-500 p-2">Hormonal Imbalance</td>
-            <td className="border border-gray-500 p-2">
-              Consume all above decoctions one week each and repeat the cycle
-            </td>
-            <td className="border border-gray-500 p-2">
-              <ul>
-                <li>Little millet - 3 days</li>
-                <li>Kodo millet - 1 day</li>
-                <li>Barnyard millet - 1 day</li>
-                <li>Foxtail millet - 1 day</li>
-                <li>Brown top millet - 1 day</li>
-              </ul>
-            </td>
-          </tr>
-          <tr>
-            <td className="border border-gray-500 p-2">Endometriosis</td>
-            <td className="border border-gray-500 p-2">
-              Oils: (At least 3 types of oils) Coconut oil / Safflower oil /
-              Peanut oil / Sesame oil / Niger seed oil
-              <br />
-              Consume all above-mentioned oils one week each and repeat the
-              cycle. Take 2 to 3 spoons of oil and maintain a gap of 30 mins
-              between oils and decoctions.
-            </td>
-            <td className="border border-gray-500 p-2">-</td>
-          </tr>
-          <tr>
-            <td className="border border-gray-500 p-2">Angina Pectoris</td>
-            <td className="border border-gray-500 p-2">
-              Juices: Salad cucumber / Bottle gourd / Ash gourd
-              <br />
-              Consume above mentioned juices one week each and repeat the cycle
-              for 9 weeks. Juices should be taken on an empty stomach and
-              maintain a gap of 30 mins between decoctions and juices.
-            </td>
-            <td className="border border-gray-500 p-2">-</td>
-          </tr>
-        </tbody>
-      </table>
+      <div className="relative">
+        <table className="table-auto border-collapse border border-gray-500 w-full table-fixed">
+          <thead className="bg-orange-200">
+            <tr>
+              <th className="border border-gray-500 p-2 w-[15%] align-top">
+                Health Issue
+              </th>
+              <th className="border border-gray-500 p-2 w-[55%] align-top">
+                Decoctions
+              </th>
+              <th className="border border-gray-500 p-2 w-[30%] align-top">
+                Millets
+              </th>
+            </tr>
+          </thead>
+        </table>
+        <div className="max-h-[calc(100vh-300px)] overflow-y-auto">
+          <table className="table-auto border-collapse border border-gray-500 w-full table-fixed">
+            <tbody>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Dialysis</li>
+                    <li className="mt-4">Albumin Urea</li>
+                    <li className="mt-4">Gout</li>
+                    <li className="mt-4">Uric acid</li>
+                    <li className="mt-4">Urethral structure</li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Nyctanthes arbor-tristis, Coriander, Bryophyllum pinnatum,
+                      Banana stem (organic) Boerhavia diffusa, Abutilon indicum
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 w-[30%] align-top">
+                  <ul className="p-2">
+                    <li>Little millet - 3 days</li>
+                    <li>Kodo millet - 3 days</li>
+                    <li>Barnyard millet - 3 days</li>
+                    <li>Foxtail millet - 1 day</li>
+                    <li>Brown top millet - 1 day</li>
+                  </ul>
+                  <p className="border-t border-gray-500 p-2">
+                    Best way to consume millets is in the form of fermented
+                    porridge for 9 weeks (For Dialysis patients)
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  Diabetes
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Tinospora cordifolia, Jamun leaves, Ivy gourd leaves,
+                      Mint, Drumstick leaves, Abutilon indicum, Fenugreek
+                      leaves, Coriander leaves
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[30%] align-top">
+                  <ul>
+                    <li>Little millet - 2 days</li>
+                    <li>Kodo millet - 2 days</li>
+                    <li>Barnyard millet - 2 days</li>
+                    <li>Foxtail millet - 2 day</li>
+                    <li>Brown top millet - 2 day</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Thyroid</li>
+                    <br />
+                    <li>P.C.O.D</li>
+                    <br />
+                    <li>Hormonal Imbalance</li>
+                    <br />
+                    <li>Endometriosis</li>
+                    <br />
+                    <li>Fibroid/ Fibro adenoma</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div className="">
+                          Drumstick leaves, Tender tamarind leaves, Betel leaves
+                          (Remove the petiole), Pongamia pinnata, Roselle,
+                          Abutilon indicum, Tinospora cordifolia
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="p-2 w-35-29">
+                        <ul>
+                          <li>Little millet - 2 days</li>
+                          <li>Kodo millet - 2 day</li>
+                          <li>Barnyard millet - 2 day</li>
+                          <li>Foxtail millet - 2 day</li>
+                          <li>Brown top millet - 2 day</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Oils:</strong> (Al least 3 types of oils)
+                          Coconut oil/ Safflower oil/ Peanut oil/ Sesame oil/
+                          Niger seed oil.
+                        </li>
+                        <br />
+                        <li>
+                          Consume all above mentioned oils one week each and
+                          repeat the cycle. Take 2 to 3 spoons of oil and
+                          maintain gap of 30 mins between oils and decoctions.
+                        </li>{" "}
+                        <br />
+                        <li>
+                          {" "}
+                          Source of oils should be strictly from bull driven
+                          wooden Ghana's Oils should be stored in glass or
+                          porcelain containers.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>B.P</li>
+                    <br />
+                    <li>Heart related</li>
+                    <br />
+                    <li>Cholesterol</li>
+                    <br />
+                    <li>Triglycerides</li>
+                    <br />
+                    <li>Angina</li>
+                    <br />
+                    <li>Pectoris</li>
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div className="">
+                          Holy basil, Aegle marmelos, Coriander, Sarpagandha,
+                          Opuntia dilleni, Abutilon indicum leaves, Tinospora
+                          cordifolia
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="p-2 w-35-29">
+                        <ul>
+                          <li>Little millet - 3 days</li>
+                          <li>Kodo millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                          <li>Foxtail millet - 1 day</li>
+                          <li>Brown top millet - 1 day</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Juices:</strong> Salad cucumber/ Bottle gourd/
+                          Ash gourd.
+                        </li>
+                        <br />
+                        <li>
+                          Consume above mentioned juices one week each and
+                          repeat the cycle for 9 weeks. Juices should be taken
+                          on empty stomach and maintain gap 30mins between
+                          decoctions and juices.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
     </div>
   );
 };
