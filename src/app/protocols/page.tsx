@@ -537,13 +537,9 @@ const HealthIssueTable: React.FC = () => {
               <tr>
                 <td className="border border-gray-500 p-2 w-[15%] align-top">
                   <ul>
-                    <li>Parkinson's</li>
+                    <li>Eye problems</li>
                     <br />
-                    <li>Alzheimer's</li>
-                    <br />
-                    <li>Fits</li>
-                    <br />
-                    <li>Paralysis</li>
+                    <li>Glaucoma</li>
                     <br />
                   </ul>
                 </td>
@@ -598,6 +594,554 @@ const HealthIssueTable: React.FC = () => {
                           Daily see orange colour sun during sunrise and sunset
                           for 5 mins.
                         </li>
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Liver Cleaning</li>
+                    <br />
+                    <li>Kidney Cleaning</li>
+                    <br />
+                    <li>Pancreas</li>
+                    <br />
+                    <li>Hepatitis A and B</li>
+                    <br />
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Ruta graveolens, Fenugreek seeds or leaves, Bryophyllum
+                      pinnatum, Boerhavia diffusa, Phyllanthus niruri, Abutilon
+                      indicum
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[30%] align-top">
+                  <ul>
+                    <li>Barnyard millet - 3 days</li>
+                    <li>Little millet - 1 days</li>
+                    <li>Kodo millet - 1 days</li>
+                    <li>Foxtail millet - 1 day</li>
+                    <li>Brown top millet - 1 day</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Nerve problems</li>
+                    <br />
+                    <li>Vertigo and Migraine</li>
+                    <br />
+                    <li>Sweat in Palms/ Sweat in Foot soles</li>
+                    <br />
+                    <li>Snoring</li>
+                    <br />
+                    <li>Stammering</li>
+                    <br />
+                    <li>Hearing Problems</li>
+                    <br />
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Bermuda grass, Guava leaves, Nyctanthes arbor-tristis,
+                      Ruta graveolens, Organic turmeric powder or turmeric bulb,
+                      Abutilon indicum
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[30%] align-top">
+                  <ul>
+                    <li>Foxtail millet - 3 day</li>
+                    <li>Brown top millet - 3 day</li>
+                    <li>Barnyard millet - 1 days</li>
+                    <li>Little millet - 1 days</li>
+                    <li>Kodo millet - 1 days</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  colSpan={3}
+                  className="border border-gray-500 p-2 w-[15%] align-top"
+                >
+                  <ul>
+                    <li>
+                      <strong>Oils:</strong> Coconut oil/ Sesame oil/ Niger seed
+                      oil Consume all above mentioned oils one week each and
+                      repeat the cycle. Take 2 to 3 spoons of oil and maintain
+                      gap of 30 mins between oils and decoctions
+                    </li>
+                    <br />
+                    <li>
+                      Source of oils should be strictly from bull driven wooden
+                      Ghana's Oils should be stored in glass or porcelain
+                      containers.
+                    </li>
+                    <br />
+                    <li>
+                      <strong>Migraine:</strong>
+                      Take a spoon of sesame seeds and fry them on a small
+                      flame, until the sesame seeds pop(sound) and change color,
+                      on the iron pan. Let them cool down. Chew them till you
+                      feel oil in the mouth and then drink a glass of water. Do
+                      this on empty stomach for 21 days.
+                    </li>
+                    <br />
+                    <li>
+                      If you still feel that you did not get relief from
+                      migraine, give a gap of 15 days and then do the protocol
+                      again for 21 days. This cycle should be repeated until the
+                      migraine is gone.
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Tachy cardia</li>
+                    <br />
+                    <li>After Heart attack</li>
+                    <br />
+                    <li>Hole in the Heart</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div>
+                          Coriander leaves, Holy basil, Betel leaves ( Remove
+                          the petiole), Mint, Tinospora cordifolia, Abutilon
+                          indicum
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="w-35-29">
+                        <ul className="p-2">
+                          <li>Little millet - 2 days</li>
+                          <li>Kodo millet - 2 day</li>
+                          <li>Foxtail millet - 1 day</li>
+                          <li>Brown top millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                        </ul>
+                        <p className="border-t border-gray-500 p-2">
+                          The best way to consume millets in the form of
+                          fermented porridge for 5 to 6 weeks
+                        </p>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Juices:</strong>Salad cucumber/ Bottle gourd/
+                          Ash gourd.
+                        </li>
+                        <br />
+                        <li>
+                          Consume above mentioned juices one week each and
+                          repeat the cycle for 9 weeks. Juices should be taken
+                          on empty stomach and maintain gap 30mins between
+                          decoctions and juices.
+                        </li>{" "}
+                        <br />
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>C4. С5</li>
+                    <br />
+                    <li>L4, L5</li>
+                    <br />
+                    <li>Sciatica</li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Curry leaves, Nyctanthes arbor-tristis, Guava leaves,
+                      Abutilon indicum, Pongamia pinnata, Tender tamarind leaves
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 w-[30%] align-top">
+                  <ul className="p-2">
+                    <li>Foxtail millet - 3 day</li>
+                    <li>Brown top millet - 3 day</li>
+                    <li>Little millet - 1 days</li>
+                    <li>Kodo millet - 1 days</li>
+                    <li>Barnyard millet - 1 days</li>
+                  </ul>
+                  <p className="border-t border-gray-500 p-2">
+                    Take weekly one sesame laddu made with palm jaggery
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Varicose veins</li>
+                    <br />
+                    <li>Varicocele</li>
+                    <br />
+                    <li>Hydrocele</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div>
+                          Aegle marmelos, Ivy gourd leaves, Nyctanthes
+                          arbor-tristis leaves, papaya leaves, Curry leaves
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="p-2 w-35-29">
+                        <ul>
+                          <li>Little millet - 3 days</li>
+                          <li>Kodo millet - 3 day</li>
+                          <li>Foxtail millet - 1 day</li>
+                          <li>Brown top millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Juices:</strong>Tomato / Ivy gourd / Capsicum
+                        </li>
+                        <br />
+                        <li>
+                          Consume above mentioned juices one week each and
+                          repeat the cycle. Juices should be taken on empty
+                          stomach and maintain gap 30mins between decoctions and
+                          juices.
+                        </li>{" "}
+                        <br />
+                      </ul>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          Apply tomato juice on varicose veins and wash it after
+                          some time. Apply homeo medicine
+                          <strong>Hamamelis Virginica.</strong>
+                        </li>
+                        <br />
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Platelets Increase</li>
+                    <br />
+                    <li>Dengue fever</li>
+                    <br />
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Nyctanthes arbor-tristis, Papaya leaves, Curry leaves,
+                      Drumstick leaves, Holy basil, Tinospora cordifolia, Tender
+                      tamarind leaves, Aegle marmelos
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[30%] align-top">
+                  <ul>
+                    <li>Little millet - 2 days</li>
+                    <li>Kodo millet - 2 days</li>
+                    <li>Foxtail millet - 1 day</li>
+                    <li>Brown top millet - 1 day</li>
+                    <li>Barnyard millet - 1 days</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Platelets decrease</li>
+                    <br />
+                    <li>WBC decrease</li>
+                    <br />
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Nyctanthes arbor-tristis, Papaya leaves, Holy basil,
+                      Bermuda grass, Wild date palm, Sambar onion, Drumstick
+                      leaves, Tender tamarind leaves
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[30%] align-top">
+                  <ul>
+                    <li>Little millet - 2 days</li>
+                    <li>Kodo millet - 2 days</li>
+                    <li>Foxtail millet - 2 day</li>
+                    <li>Brown top millet - 2 day</li>
+                    <li>Barnyard millet - 2 days</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Infertility</li>
+                    <br />
+                    <li>Low Sperm count</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div>
+                          Tender tamarind, Drumstick leaves, Peepal leaves, Neem
+                          leaves, betel leaves (Remove the petiole), Abutilon
+                          indicum, Mango leaves
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="p-2 w-35-29">
+                        <ul>
+                          <li>Little millet - 3 days</li>
+                          <li>Kodo millet - 1 day</li>
+                          <li>Foxtail millet - 1 day</li>
+                          <li>Brown top millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Oils:</strong>Coconut oil / Safflower oil /
+                          Niger seed oil
+                        </li>
+                        <br />
+                        <li>
+                          Consume all above mentioned oils one week each and
+                          repeat the cycle. Take 2 to 3 spoons of oil and
+                          maintain gap of 30 mins between oils and decoctions
+                        </li>{" "}
+                        <br />
+                        <li>
+                          Source of oils should be strictly from bull driven
+                          wooden Ghana's Oils should be stored in glass or
+                          porcelain containers.
+                        </li>{" "}
+                        <br />
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Constipation</li>
+                    <br />
+                    <li>Piles</li>
+                    <br />
+                    <li>Fistula</li>
+                    <br />
+                    <li>Fissures</li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Pongamia pinnata, Senna, Roselle, Fenugreek leaves,
+                      Coriander leaves, Banana stem
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 w-[30%] align-top">
+                  <ul className="p-2">
+                    <li>Foxtail millet - 3 day</li>
+                    <li>Brown top millet - 3 day</li>
+                    <li>Little millet - 1 days</li>
+                    <li>Kodo millet - 1 days</li>
+                    <li>Barnyard millet - 1 days</li>
+                  </ul>
+                  <p className="border-t border-gray-500 p-2">
+                    The best way to consume millets in the form of fermented
+                    porridge for 5 to 6 weeks
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Urine infection</li>
+                    <br />
+                    <li>Prostate (Men)</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div>
+                          Bryophyllum pinnatum, Coriander leaves, Mint,
+                          Boerhavia diffusa, Drumstick leaves, Ruta graveolens,
+                          Dillweed leaves, Banana stem.
+                        </div>
+                        <br />
+                      </div>
+                      <div className="p-2 w-35-29">
+                        <ul>
+                          <li>Little millet - 3 days</li>
+                          <li>Kodo millet - 1 day</li>
+                          <li>Foxtail millet - 1 day</li>
+                          <li>Brown top millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          Using of structured water for cooking and drinking is
+                          mandatory.
+                        </li>
+                        <br />
+                        <li>
+                          Take buttermilk. Finger millet milk, Pearl millet milk
+                          works very well on this issue. Take Fenugreek seed
+                          water, coconut water, and lemon water. One can take
+                          Bottle gourd/ Ash gourd/ Salad cucumber juice. One can
+                          also take Banana stem decoction with outer layer in
+                          the morning and evening.
+                        </li>{" "}
+                        <br />
+                        <li>
+                          After urination clean that part with Sour buttermilk.
+                          After 2 to 3 minutes wash it with clean water. This
+                          has to be done for a week.
+                        </li>{" "}
+                        <br />
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>HIV</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div>
+                          Wild date palm leaves, Bermuda grass, Tinospora
+                          cordifolia, Pongamia pinnata, Aegle marmelos,
+                          Phyllanthus niruri leaves
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="w-35-29">
+                        <ul className="p-2">
+                          <li>Kodo millet - 3 day</li>
+                          <li>Little millet - 1 days</li>
+                          <li>Foxtail millet - 1 day</li>
+                          <li>Brown top millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                        </ul>
+                        <p className="border-t border-gray-500 p-2">
+                          The best way to consume millets in the form of
+                          fermented porridge for 5 to 6 weeks
+                        </p>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Oils:</strong>Coconut oil / Niger seed oil /
+                          Peanut oil
+                        </li>
+                        <br />
+                        <li>
+                          Consume all above mentioned oils one week each and
+                          repeat the cycle. Take 2 to 3 spoons of oil and
+                          maintain gap of 30 mins between oils and decoction.
+                        </li>{" "}
+                        <br />
+                        <li>
+                          Source of oils should be strictly from bull driven
+                          wooden Ghana's Oils should be stored in glass or
+                          porcelain containers.
+                        </li>{" "}
+                        <br />
                       </ul>
                     </div>
                   </div>
