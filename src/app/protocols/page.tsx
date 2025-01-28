@@ -211,6 +211,201 @@ const HealthIssueTable: React.FC = () => {
                   </div>
                 </td>
               </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Obesity / Weight loss</li>
+                    <br />
+                    <li>Hernia</li>
+                    <br />
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Peepal, Betel leaves (Remove the petiole), Cumin seeds
+                      Bermuda grass, Wild date palm leaves, organic turmeric
+                      powder or turmeric bulb.
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[30%] align-top">
+                  <ul>
+                    <li>Little millet - 3 days</li>
+                    <li>Kodo millet - 3 days</li>
+                    <li>Barnyard millet - 1 days</li>
+                    <li>Foxtail millet - 1 day</li>
+                    <li>Brown top millet - 1 day</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Weight gain (Underweight)</li>
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div className="">
+                          Mustard seeds, Fenugreek seeds, Cumin seeds, Banana
+                          stem, Abution indicum
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="p-2 w-35-29">
+                        <ul>
+                          <li>Little millet - 3 days</li>
+                          <li>Kodo millet - 3 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                          <li>Foxtail millet - 1 day</li>
+                          <li>Brown top millet - 1 day</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Oils:</strong> Safflower oil/ Niger seed oil/
+                          Peanut oil
+                        </li>
+                        <br />
+                        <li>
+                          Consume all above mentioned oils one week each and
+                          repeat the cycle. Take 2 to 3 spoons of oil and
+                          maintain gap of 30 mins between oils and decoctions
+                        </li>
+                        <br />
+                        <li>
+                          Source of oils should be strictly from bull driven
+                          wooden Ghana's Oils should be stored in glass or
+                          porcelain containers.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  colSpan={3}
+                  className="border border-gray-500 p-2 w-[15%] align-top"
+                >
+                  <ul>
+                    <li>
+                      Healthy people can take Proso millet 1-day, Great millet
+                      1- day along with positive grains.
+                    </li>
+                    <br />
+                    <li>
+                      Sprouted legumes such as green gram, Bengal gram, cowpea,
+                      groundnuts should be taken each variety per week. Sprouts
+                      should first be steamed for 4to/minutes and then be
+                      tempered.
+                    </li>
+                    <br />
+                    <li>
+                      Just two tea spoonsful of one type of steamed and tempered
+                      sprouts should be taken once a week along with one
+                      teaspoon of fenugreek/methi sprouts.
+                    </li>
+                    <br />
+                    <li>
+                      That means every week the type of legume used for
+                      sprouting changes, but fenugreek seed sprouts remains
+                      constant.
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Asthma</li>
+                    <br />
+                    <li>T.B.</li>
+                    <br />
+                    <li>Pneumonia</li>
+                    <br />
+                    <li>Sinusitis</li>
+                    <br />
+                    <li>Respiratory related issues</li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Organic turmeric powder or turmeric root, Organic ginger,
+                      Ruta graveolens, Neem, Curry leaves, Bermuda grass,
+                      Abutilon indicum, Tinospora cordifolia, Japanese Mugwort
+                      leaves
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[30%] align-top">
+                  <ul>
+                    <li>Little millet - 1 days</li>
+                    <li>Kodo millet - 1 days</li>
+                    <li>Barnyard millet - 1 days</li>
+                    <li>Foxtail millet - 2 day</li>
+                    <li>Brown top millet - 2 day</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Gastric Problems</li>
+                    <br />
+                    <li>Acidity</li>
+                    <br />
+                    <li>
+                      GERD (Gastro esophageal reflex disease)/ Acid reflux
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 p-2 w-[55%] align-top">
+                  <ul>
+                    <li>
+                      Betel leaves (Remove the patiole). Fenugreek leaves,
+                      Pongamia pinnata leaves, Cumin seeds, Senna leaves
+                      Abutilon indicum
+                    </li>
+                    <li className="mt-4">
+                      Consume all above decoctions one week each and repeat the
+                      cycle
+                    </li>
+                  </ul>
+                </td>
+                <td className="border border-gray-500 w-[30%] align-top">
+                  <ul className="p-2">
+                    <li>Little millet - 2 days</li>
+                    <li>Kodo millet - 2 days</li>
+                    <li>Barnyard millet - 2 days</li>
+                    <li>Foxtail millet - 2 day</li>
+                    <li>Brown top millet - 2 day</li>
+                  </ul>
+                  <p className="border-t border-gray-500 p-2">
+                    The best way to consume millets in the form of fermented
+                    porridge for 5 to 6 weeks
+                  </p>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>
