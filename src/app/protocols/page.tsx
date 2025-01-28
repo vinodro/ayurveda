@@ -19,7 +19,7 @@ const HealthIssueTable: React.FC = () => {
             </tr>
           </thead>
         </table>
-        <div className="max-h-[calc(100vh-300px)] overflow-y-auto">
+        <div className="max-h-[calc(100vh-300px)] overflow-y-auto border border-gray-500">
           <table className="table-auto border-collapse border border-gray-500 w-full table-fixed">
             <tbody>
               <tr>
