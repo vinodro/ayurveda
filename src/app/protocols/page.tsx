@@ -406,6 +406,203 @@ const HealthIssueTable: React.FC = () => {
                   </p>
                 </td>
               </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Parkinson's</li>
+                    <br />
+                    <li>Alzheimer's</li>
+                    <br />
+                    <li>Fits</li>
+                    <br />
+                    <li>Paralysis</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div>
+                          Guava leaves, Nyctanthes arbor-tristis, Peepal, Ruta
+                          graveolens, Neem, Cinnamon sticks, Organic turmeric
+                          powder or turmeric bulb, Abutilon indicum leaves
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="p-2 w-35-29">
+                        <ul>
+                          <li>Foxtail millet - 3 day</li>
+                          <li>Brown top millet - 3 day</li>
+                          <li>Little millet - 1 days</li>
+                          <li>Kodo millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Oils:</strong> Niger seed oil/ Coconut oil/
+                          Peanut oil/ Safflower oil
+                        </li>
+                        <br />
+                        <li>
+                          Consume all above mentioned oils one week each and
+                          repeat the cycle. Take 2 to 3 spoons of oil and
+                          maintain gap of 30 mins between oils and decoctions
+                        </li>{" "}
+                        <br />
+                        <li>
+                          {" "}
+                          Source of oils should be strictly from bull driven
+                          wooden Ghana's Oils should be stored in glass or
+                          porcelain containers.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Kidney stones</li>
+                    <br />
+                    <li>Gall bladder stones</li>
+                    <br />
+                    <li>Pancreas stones</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div>
+                          Coriander leaves, Boerhavia diffusa, Bryophyllum
+                          pinnatum, Banana stem, Pongamia pinnata, Abutilon
+                          indicum
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="w-35-29">
+                        <ul className="p-2">
+                          <li>Foxtail millet - 3 day</li>
+                          <li>Brown top millet - 3 day</li>
+                          <li>Little millet - 1 days</li>
+                          <li>Kodo millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                        </ul>
+                        <p className="border-t border-gray-500 p-2">
+                          Best way to consume millets is in the form of
+                          fermented porridge for 9 weeks (For Dialysis patients)
+                        </p>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Oils:</strong> Niger seed oil/ Coconut oil/
+                          Peanut oil/ Safflower oil
+                        </li>
+                        <br />
+                        <li>
+                          Consume all above mentioned oils one week each and
+                          repeat the cycle. Take 2 to 3 spoons of oil and
+                          maintain gap of 30 mins between oils and decoctions
+                        </li>{" "}
+                        <br />
+                        <li>
+                          {" "}
+                          Source of oils should be strictly from bull driven
+                          wooden Ghana's Oils should be stored in glass or
+                          porcelain containers.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+              <tr>
+                <td className="border border-gray-500 p-2 w-[15%] align-top">
+                  <ul>
+                    <li>Parkinson's</li>
+                    <br />
+                    <li>Alzheimer's</li>
+                    <br />
+                    <li>Fits</li>
+                    <br />
+                    <li>Paralysis</li>
+                    <br />
+                  </ul>
+                </td>
+
+                <td colSpan={2} className="border border-gray-500 align-top">
+                  <div className="flex flex-col">
+                    <div className="flex">
+                      <div className="border-r border-gray-500 flex flex-col w-64-71 p-2">
+                        <div>
+                          Dill weed leaves, Drumstick leaves, Mint leaves, Curry
+                          leaves, Betel leaves ( Remove the petiole), Ruta
+                          graveolens
+                        </div>
+                        <br />
+                        <div>
+                          Consume all above decoctions one week each and repeat
+                          the cycle
+                        </div>
+                      </div>
+                      <div className="p-2 w-35-29">
+                        <ul>
+                          <li>Foxtail millet - 3 day</li>
+                          <li>Brown top millet - 3 day</li>
+                          <li>Little millet - 1 days</li>
+                          <li>Kodo millet - 1 day</li>
+                          <li>Barnyard millet - 1 day</li>
+                        </ul>
+                      </div>
+                    </div>
+                    <div className="border-t border-gray-500 p-2">
+                      <ul>
+                        <li>
+                          <strong>Juices:</strong> Carrot/ Knol khol/ Radish (
+                          Can take with lemon juice, palm jaggery or with salt/
+                          pepper powder )
+                        </li>
+                        <br />
+                        <li>
+                          Consume above mentioned juices one week each and
+                          repeat the cycle for 9 weeks. Juices should be taken
+                          on empty stomach and maintain gap 30 mins between
+                          decoctions and juices.
+                        </li>{" "}
+                        <br />
+                        <li>
+                          <strong>Plant based Milk:</strong> Take weekly 2 days
+                          coconut milk, 2 days sesame milk, 2 days pearl millet
+                          milk.
+                        </li>
+                        <br />
+                        <li>
+                          Daily see orange colour sun during sunrise and sunset
+                          for 5 mins.
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>
