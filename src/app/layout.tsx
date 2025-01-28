@@ -31,7 +31,7 @@ export default function RootLayout({
           <div className="flex items-center p-3">
             <Link
               href="/"
-              className="title-ayurveda-logo select-none cursor-pointer text-4xl font-bold no-underline text-gray-800"
+              className="title-ayurveda-logo select-none cursor-pointer text-5xl font-bold no-underline text-gray-800"
               style={{ userSelect: "none", WebkitUserSelect: "none" }}
             >
               Ayurveda
