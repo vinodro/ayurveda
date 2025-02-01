@@ -3,7 +3,7 @@ import React from "react";
 const HealthIssueTable: React.FC = () => {
   return (
     <div className="p-4">
-      <div className="relative">
+      <div className="relative w-50rem-md">
         <table className="table-auto border-collapse border border-gray-500 w-full table-fixed">
           <thead className="bg-orange-200">
             <tr>

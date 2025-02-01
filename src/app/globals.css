@@ -51,3 +51,12 @@ body {
   width: 35.29411764705882%;
 }
 
+@media (max-width: 768px) {
+  .w-50rem-md {
+    width: 50rem;
+  }
+
+  .flex-col-md {
+    flex-direction: column;
+  }
+}
